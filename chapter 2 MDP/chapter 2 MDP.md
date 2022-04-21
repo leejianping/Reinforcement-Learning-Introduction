@@ -636,4 +636,5 @@ Bellman最优方程是非线性的，通常没有闭式解，但可以通过一�
 1.David Silver第2课
 2.叶强《David Silver强化学习公开课中文讲解及实践》
 3.《CS285》第6讲
-4.其他网页资料
+4.Richard Sutton 《Reinforcement Learning  A Introduction》
+5.其他网页资料

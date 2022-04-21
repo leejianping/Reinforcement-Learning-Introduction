@@ -1,4 +1,3 @@
-#! https://zhuanlan.zhihu.com/p/491105128
 
 #第一讲 强化学习介绍
 ##1.1 强化学习简介
@@ -261,4 +260,5 @@ $$
 1.David Silver第一课
 2.叶强《David Silver强化学习公开课中文讲解及实践》
 3.CS285 第四课
+4.Richard Sutton 《Reinforcement Learning  A Introduction》
 
